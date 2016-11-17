@@ -4,7 +4,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>  
 <html>
 <head>
-<title>Furnyish Store a Ecommerce Category Flat Bootstarp Responsive Website Template | Home :: w3layouts</title>
+<title>Through the lens | Home :: w3layouts</title>
 <link href="<c:url value="/resources/css/bootstrap.css"/>" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary JavaScript plugins) -->
 <script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
@@ -865,7 +865,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </ul>
 		 </div>		 
 		 <div class="copywrite">
-			 <p>Copyright © 2015 Furnyish Store All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+			 <p>Copyright Â© 2015 Furnyish Store All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
 		 </div>			 
 		 </div>
 	 </div>
